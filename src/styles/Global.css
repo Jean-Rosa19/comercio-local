@@ -1,0 +1,17 @@
+.color1 {color: #142207;}
+.color2 {color: #0e601f;}
+.color3 {color: #ff7f42;}
+.color4 {color: #ffd46b;}
+.color5 {color: #fffbaa;}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 16px sans-serif;
+    background-color: #ffd46b;
+}
